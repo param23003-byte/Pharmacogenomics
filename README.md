@@ -1,1 +1,1 @@
-5th-year PharmD research project
+## Pharmacogenomics Project v1.0
